@@ -14,5 +14,5 @@ A simple data visualization project built with Python, Streamlit, Pandas, and Ma
 - Pandas  
 - Matplotlib
 
-Test it here: https://github.com/mediasanna/eurojackpot-data-analysis.git
+Link to this repositio: https://github.com/mediasanna/eurojackpot-data-analysis.git
 
